@@ -1,0 +1,11 @@
+D:\Projects\Balance\Logic\bin\Debug\Logic.dll
+D:\Projects\Balance\Logic\bin\Debug\Logic.pdb
+D:\Projects\Balance\Logic\bin\Debug\ExcelService.dll
+D:\Projects\Balance\Logic\bin\Debug\ExcelService.pdb
+D:\Projects\Balance\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Projects\Balance\Logic\obj\Debug\Logic.dll
+D:\Projects\Balance\Logic\obj\Debug\Logic.pdb
+D:\Projects\Balance\Logic\bin\Debug\DataAccess.dll
+D:\Projects\Balance\Logic\bin\Debug\Entity.dll
+D:\Projects\Balance\Logic\bin\Debug\DataAccess.pdb
+D:\Projects\Balance\Logic\bin\Debug\Entity.pdb

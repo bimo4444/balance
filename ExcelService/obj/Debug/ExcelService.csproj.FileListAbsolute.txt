@@ -1,0 +1,5 @@
+D:\Projects\Balance\ExcelService\obj\Debug\ExcelService.csprojResolveAssemblyReference.cache
+D:\Projects\Balance\ExcelService\bin\Debug\ExcelService.dll
+D:\Projects\Balance\ExcelService\bin\Debug\ExcelService.pdb
+D:\Projects\Balance\ExcelService\obj\Debug\ExcelService.dll
+D:\Projects\Balance\ExcelService\obj\Debug\ExcelService.pdb

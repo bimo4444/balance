@@ -1,0 +1,17 @@
+D:\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+D:\Projects\Balance\Balance\bin\Debug\Balance.exe
+D:\Projects\Balance\Balance\bin\Debug\Balance.pdb
+D:\Projects\Balance\Balance\bin\Debug\Logic.dll
+D:\Projects\Balance\Balance\bin\Debug\ExcelService.dll
+D:\Projects\Balance\Balance\bin\Debug\Logic.pdb
+D:\Projects\Balance\Balance\bin\Debug\ExcelService.pdb
+D:\Projects\Balance\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache
+D:\Projects\Balance\Balance\obj\Debug\Balance.exe
+D:\Projects\Balance\Balance\obj\Debug\Balance.pdb
+D:\Projects\Balance\Balance\bin\Debug\DataAccess.dll
+D:\Projects\Balance\Balance\bin\Debug\Entity.dll
+D:\Projects\Balance\Balance\bin\Debug\DataAccess.pdb
+D:\Projects\Balance\Balance\bin\Debug\Entity.pdb
+C:\dev\Balance\Balance\bin\Debug\Balance.exe.config
+C:\dev\Balance\Balance\obj\Debug\Balance.exe
+C:\dev\Balance\Balance\obj\Debug\Balance.pdb

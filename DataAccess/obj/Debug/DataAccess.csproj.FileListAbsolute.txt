@@ -1,0 +1,8 @@
+D:\Projects\Balance\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\Balance\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Projects\Balance\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects\Balance\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects\Balance\DataAccess\bin\Debug\Entity.dll
+D:\Projects\Balance\DataAccess\bin\Debug\Entity.pdb
+D:\Projects\Balance\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects\Balance\DataAccess\obj\Debug\DataAccess.pdb
