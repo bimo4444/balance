@@ -1,5 +1,0 @@
-D:\Projects\Balance\Entity\bin\Debug\Entity.dll
-D:\Projects\Balance\Entity\bin\Debug\Entity.pdb
-D:\Projects\Balance\Entity\obj\Debug\Entity.dll
-D:\Projects\Balance\Entity\obj\Debug\Entity.pdb
-D:\Projects\Balance\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
